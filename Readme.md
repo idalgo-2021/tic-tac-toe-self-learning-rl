@@ -5,6 +5,8 @@ Several reinforcement learning (**RL**) methods are implemented for training a n
 *[Read this document in Russian](Readme_RU.md)*
 
 
+* Habr.com article: [Крестики-нолики. Самообучение с подкреплением](https://habr.com/ru/articles/1068346/)
+
 ## Features
 
 * Neural network architectures:
