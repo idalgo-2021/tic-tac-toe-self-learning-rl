@@ -1,0 +1,28 @@
+# IDE specific
+.idea
+.vscode
+
+# Python specific
+venv/
+env/
+.venv/ 
+__pycache__/ 
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Secrets and environment files
+.env
+
+# Log files
+*.log
+logs/
+
+# Other
+# .private
+# uploads/
+# *.pth
+*.npz
